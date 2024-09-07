@@ -27,4 +27,4 @@ func main() {
 
 	// Adding one to the rating and printing the final result
 	fmt.Println("Final rating is:", numRating+1)
-}
+} 
